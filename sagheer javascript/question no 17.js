@@ -1,0 +1,1 @@
+let arr = ["Urdu" , "Pakistan" , "Muslims" , "K2" , "Oranges"]
